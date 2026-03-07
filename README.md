@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Rohanbm19/leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Rohanbm19/leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Rohanbm19/leetcode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Rohanbm19/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Rohanbm19/leetcode/tree/master/0342-power-of-four) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Rohanbm19/leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
