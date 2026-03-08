@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Rohanbm19/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Rohanbm19/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Rohanbm19/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Rohanbm19/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Rohanbm19/leetcode/tree/master/0326-power-of-three) |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Rohanbm19/leetcode/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Rohanbm19/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
