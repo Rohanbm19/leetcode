@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Rohanbm19/leetcode/tree/master/0283-move-zeroes) |
+| [0696-count-binary-substrings](https://github.com/Rohanbm19/leetcode/tree/master/0696-count-binary-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,5 +55,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/Rohanbm19/leetcode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/Rohanbm19/leetcode/tree/master/0709-to-lower-case) |
 <!---LeetCode Topics End-->
