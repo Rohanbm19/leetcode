@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Rohanbm19/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Rohanbm19/leetcode/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/Rohanbm19/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Rohanbm19/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Rohanbm19/leetcode/tree/master/0283-move-zeroes) |
 ## Math
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Rohanbm19/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Rohanbm19/leetcode/tree/master/0217-contains-duplicate) |
 ## Simulation
 |  |
@@ -57,6 +59,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Rohanbm19/leetcode/tree/master/0179-largest-number) |
 | [0696-count-binary-substrings](https://github.com/Rohanbm19/leetcode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/Rohanbm19/leetcode/tree/master/0709-to-lower-case) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Rohanbm19/leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
