@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Rohanbm19/leetcode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/Rohanbm19/leetcode/tree/master/0179-largest-number) |
 | [0696-count-binary-substrings](https://github.com/Rohanbm19/leetcode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/Rohanbm19/leetcode/tree/master/0709-to-lower-case) |
