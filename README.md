@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Rohanbm19/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Rohanbm19/leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Rohanbm19/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Rohanbm19/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Rohanbm19/leetcode/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Rohanbm19/leetcode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/Rohanbm19/leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Rohanbm19/leetcode/tree/master/0242-valid-anagram) |
 | [0696-count-binary-substrings](https://github.com/Rohanbm19/leetcode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/Rohanbm19/leetcode/tree/master/0709-to-lower-case) |
 ## Greedy
