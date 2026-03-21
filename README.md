@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Rohanbm19/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rohanbm19/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Rohanbm19/leetcode/tree/master/0367-valid-perfect-square) |
+| [2396-strictly-palindromic-number](https://github.com/Rohanbm19/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/Rohanbm19/leetcode/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/Rohanbm19/leetcode/tree/master/0696-count-binary-substrings) |
+| [2396-strictly-palindromic-number](https://github.com/Rohanbm19/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Rohanbm19/leetcode/tree/master/0179-largest-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Rohanbm19/leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
