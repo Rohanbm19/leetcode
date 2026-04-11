@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rohanbm19/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Rohanbm19/leetcode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/Rohanbm19/leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Rohanbm19/leetcode/tree/master/0205-isomorphic-strings) |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Rohanbm19/leetcode/tree/master/0867-transpose-matrix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Rohanbm19/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
