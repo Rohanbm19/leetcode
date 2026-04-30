@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rohanbm19/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Rohanbm19/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Rohanbm19/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0735-asteroid-collision](https://github.com/Rohanbm19/leetcode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Rohanbm19/leetcode/tree/master/0867-transpose-matrix) |
 ## Math
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Rohanbm19/leetcode/tree/master/0258-add-digits) |
+| [0735-asteroid-collision](https://github.com/Rohanbm19/leetcode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Rohanbm19/leetcode/tree/master/0867-transpose-matrix) |
 ## Number Theory
 |  |
@@ -117,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rohanbm19/leetcode/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/Rohanbm19/leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
