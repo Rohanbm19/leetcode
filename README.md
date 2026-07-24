@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Rohanbm19/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Rohanbm19/leetcode/tree/master/0018-4sum) |
+| [0053-maximum-subarray](https://github.com/Rohanbm19/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Rohanbm19/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Rohanbm19/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Rohanbm19/leetcode/tree/master/0136-single-number) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Rohanbm19/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Rohanbm19/leetcode/tree/master/0118-pascals-triangle) |
 ## Game Theory
 |  |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rohanbm19/leetcode/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/Rohanbm19/leetcode/tree/master/0735-asteroid-collision) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Rohanbm19/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
