@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rohanbm19/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Rohanbm19/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Rohanbm19/leetcode/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Rohanbm19/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Rohanbm19/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Rohanbm19/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/Rohanbm19/leetcode/tree/master/0179-largest-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Rohanbm19/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Rohanbm19/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Rohanbm19/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rohanbm19/leetcode/tree/master/0242-valid-anagram) |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rohanbm19/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Rohanbm19/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
