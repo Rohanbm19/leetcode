@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rohanbm19/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Rohanbm19/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Rohanbm19/leetcode/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Rohanbm19/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Rohanbm19/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Rohanbm19/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rohanbm19/leetcode/tree/master/0055-jump-game) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Rohanbm19/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Rohanbm19/leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rohanbm19/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Rohanbm19/leetcode/tree/master/0349-intersection-of-two-arrays) |
